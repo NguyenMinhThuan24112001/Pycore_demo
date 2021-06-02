@@ -1,0 +1,1 @@
+print('Hello AI cung nhau thanh cong nhe')
